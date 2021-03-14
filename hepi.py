@@ -48,6 +48,6 @@ async def start(ctx):
     except:
       pass
 try:
-  client.run('ВВЕДИТЕ ТОКЕН')
+  client.run('ODIwNjY4NjIzMzYxNjcxMTg5.YE4hNw.ZPoXrfSGnVFHdYYkpiiHhSa7DAM')
 except Exception:
   pass
